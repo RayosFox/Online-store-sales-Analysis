@@ -15,7 +15,7 @@
 - **Пик продаж:** ноябрь 2017
 
 ## 🔗 Интерактивный дашборд
-[Ссылка на дашборд в DataLens]((https://datalens.yandex/fpzuzba300tiz))
+[Ссылка на дашборд в DataLens](https://datalens.yandex/fpzuzba300tiz)
 
 ## 📁 Файлы
 | Файл | Описание |
